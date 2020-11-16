@@ -1,2 +1,2 @@
-from . import field_view
-from . import main_view
+from .field_vmaneger import InputField
+from . main_vmaneger import BreastCancer
